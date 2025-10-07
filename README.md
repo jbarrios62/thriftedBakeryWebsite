@@ -1,3 +1,4 @@
 # Bakey Website
 
-- Add Fontawesome Link needs to be added.
+a website build for my personal baking business, and to hone my web app skills!
+
