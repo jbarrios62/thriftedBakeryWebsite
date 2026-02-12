@@ -1,11 +1,11 @@
 :root {
-  --main-color: #ab755c;
+  --main-color: #6b3315;
   --nav-color: #b68a76;
-  --bg-color: #fef0f1;
+  --bg-color: #fddef4;
   --black: #2f4858;
   --card-color: #d7beb3;
   --border: 0.1rem solid var(--card-color);
-  --box-shadow: 0 0 10px #7e5643;
+  --box-shadow: 0 0 10px #322018;
 }
 * {
   margin: 0;
